@@ -15,22 +15,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hokors/dgr-realty">DGR Realty</a></h4>
-      Real-estate site built for a client. Admin dashboard, REST API, E2E tests, CI/CD.<br><br>
-      <code>Next.js</code> <code>Supabase</code> <code>Playwright</code><br><br>
-      <a href="https://dgr2-snowy.vercel.app">Live site →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hokors/nyc-taxi-data-warehouse">NYC Taxi Data Warehouse</a></h4>
-      48M+ taxi trips loaded into a PostgreSQL star schema with ETL and data-quality checks.<br><br>
-      <code>Python</code> <code>PostgreSQL</code> <code>PyArrow</code>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">

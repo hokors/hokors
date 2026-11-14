@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
@@ -14,6 +15,11 @@
 </p>
 
 ---
+
+### Experience
+
+**Lead Developer · Enlistment Enterprise** — *Sep 2026 – Present*
+Course enlistment system built with Java, Spring Boot 3.3, and Gradle 8.8, with a GitLab CI/CD pipeline. Leading Group E's development team.
 
 ---
 
